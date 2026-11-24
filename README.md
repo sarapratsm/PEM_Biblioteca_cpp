@@ -1,7 +1,8 @@
 # Biblioteca.cpp
 
-![CFGS DAM](https://img.shields.io/badge/CFGS-Desenvolupament%20d%27Aplicacions%20Multiplataforma%20%28DAM%29-green)
-![PEM](https://img.shields.io/badge/assignatura-Programaci%C3%B3%20Estructurada%20i%20Modular-orange)
+![CFGS DAM](https://img.shields.io/badge/CFGS-Desenvolupament%20d%27Aplicacions%20Multiplataforma%20%28DAM%29-green?style=for-the-badge)
+![PEM](https://img.shields.io/badge/assignatura-Programaci%C3%B3%20Estructurada%20i%20Modular-orange?style=for-the-badge)
+
 Aquest projecte s’ha fet com a part de la assignatura de Programació Estructurada i Modular (PEM) del cicle de Desenvolupament d’Aplicacions Multiplataforma en l’institud Milà i Fontanals d’Igualada, per tal d’aprendre com fer una correcta gestió de classes en C++.
 
 El projecte consta de les classes Fitxa, Data i Biblioteca.
